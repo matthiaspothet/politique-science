@@ -4,7 +4,7 @@ const config = {
     EN: {
       short: `Matthias is a sociology PhD student working on the architecture of courthouses and its relations with judicial practices.
       He is affiliated to the <a href="https://umr-lisis.fr/membre/matthias-pothet/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)"
+          Sciences Innovations Sociétés (LISIS)</a>.`
       long: "",
     },
     FR: {
@@ -13,31 +13,17 @@ const config = {
             href="http://umr-lisis.fr/membre/matthias-pothet/"
             target="_blank">Laboratoire Interdisciplinaire
           Sciences
-          Innovations Sociétés (LISIS).`,
+          Innovations Sociétés (LISIS).</a>.`,
       long: "",
     },
   },
   links: [
     {
-      label:
-      value:
-      url:
+      label:"Lab website",
+      value:"LISIS",
+      url:"http://umr-lisis.fr/membre/matthias-pothet/",
     },
-    {
-      label:
-      value:
-      url:
-    },
-    {
-      label:
-      value:
-      url:
-    },
-    {
-      label:
-      value:
-      url:
-    },
+   
   ],
-  email: matthias.pothet@edu.univ-eiffel.fr
+  email: {name:"matthias.pothet",domain:"edu.univ-eiffel.fr"}
 };
