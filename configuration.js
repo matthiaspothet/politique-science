@@ -4,7 +4,7 @@ const config = {
     EN: {
       short: `Matthias is a sociology PhD student working on the architecture of courthouses and its relations with judicial practices.
       He is affiliated to the <a href="https://umr-lisis.fr/membre/matthias-pothet/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>.`
+          Sciences Innovations Sociétés (LISIS)</a>.`,
       long: "",
     },
     FR: {
