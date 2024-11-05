@@ -1,52 +1,43 @@
 const config = {
-  name: "Guillaume Levrier",
+  name: "Matthias Pothet",
   description: {
     EN: {
-      short: `Guillaume Levrier is a political scientist working on biotechnology, currently a CNRS postdoc for the
-        <a href="https://cordis.europa.eu/project/id/951393" target="_blank">Nanobubbles ERC grant</a>. He is affiliated
-        to the <a href="http://umr-lisis.fr/membre/guillaume-levrier/" target="_blank">Laboratoire Interdisciplinaire
-          Sciences Innovations Sociétés (LISIS)</a>, and is a research associate to <a
-            href="https://www.sciencespo.fr/cevipof/en/researcher/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> and to the French National Library (BnF). `,
+      short: `Matthias is a sociology PhD student working on the architecture of courthouses and its relations with judicial practices.
+      He is affiliated to the <a href="https://umr-lisis.fr/membre/matthias-pothet/" target="_blank">Laboratoire Interdisciplinaire
+          Sciences Innovations Sociétés (LISIS)"
       long: "",
     },
     FR: {
-      short: `Guillaume Levrier est un chercheur en sciences
-        politiques
-        spécialisé sur les biotechnologies, actuellement postdoc CNRS pour le <a
-          href="https://cordis.europa.eu/project/id/951393" target="_blank">projet
-          ERC Nanobubbles</a>. Il est affilié au <a
-            href="http://umr-lisis.fr/membre/guillaume-levrier/"
+      short: `Matthias Pothet est doctorant en sociologie et travaille sur le rapport entre architecture des palais
+        de justice et pratiques judiciaires. Il est affilié au <a
+            href="http://umr-lisis.fr/membre/matthias-pothet/"
             target="_blank">Laboratoire Interdisciplinaire
           Sciences
-          Innovations Sociétés (LISIS)</a>, est associé au <a
-            href="https://www.sciencespo.fr/cevipof/fr/chercheur/guillaume-levrier.html"
-            target="_blank">CEVIPOF (Sciences Po)</a> et à la Bibliothèque nationale de
-        France (BnF).`,
+          Innovations Sociétés (LISIS).`,
       long: "",
     },
   },
   links: [
     {
-      label: "twitter",
-      value: "@g_levrier",
-      url: "https://twitter.com/g_levrier",
+      label:
+      value:
+      url:
     },
     {
-      label: "google scholar",
-      value: "profile",
-      url: "https://scholar.google.com/citations?user=IRiJFNMAAAAJ&hl=en",
+      label:
+      value:
+      url:
     },
     {
-      label: "pubpeer",
-      value: "profile",
-      url: "https://pubpeer.com/search?q=guillaume+levrier",
+      label:
+      value:
+      url:
     },
     {
-      label: "linked in",
-      value: "profile",
-      url: "https://www.linkedin.com/in/guillaume-levrier-phd-89156838/",
+      label:
+      value:
+      url:
     },
   ],
-  email: { name: "guillaume.levrier", domain: "politique.science" },
+  email: matthias.pothet@edu.univ-eiffel.fr
 };
